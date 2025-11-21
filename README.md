@@ -24,9 +24,7 @@ Developed by: Vasanth P
 RegisterNumber:212224230295  
 */
 
-M For Spam Mail Detection..
-Developed by: Ramya.P
-RegisterNumber: 212223240137
+
 
 import pandas as pd
 data=pd.read_csv("spam.csv", encoding='Windows-1252')
